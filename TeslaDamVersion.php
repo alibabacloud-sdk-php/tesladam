@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\TeslaDam
  *
- * @method V20180118\TeslaDamApiResolver v20180118()
+ * @method static V20180118\TeslaDamApiResolver v20180118()
  */
-class TeslaDam
+class TeslaDamVersion
 {
     use VersionResolverTrait;
 }
