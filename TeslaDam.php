@@ -5,8 +5,8 @@ namespace AlibabaCloud\TeslaDam;
 use AlibabaCloud\Client\Resolver\VersionResolver;
 
 /**
- * @deprecated
+ * @method static V20180118\TeslaDamApiResolver v20180118()
  */
-class TeslaDamVersion extends VersionResolver
+class TeslaDam extends VersionResolver
 {
 }
